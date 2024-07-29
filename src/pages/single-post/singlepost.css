@@ -1,0 +1,18 @@
+.single-post-page {
+    width: 800px;
+    margin: auto;
+}
+.post-container {
+    padding: 40px 0;
+}
+.post-container img {
+    width: 100%;
+    height: auto;
+}
+h2.single-title {
+    font-size: 30px;
+    margin: 10px 0;
+}
+.single-info-row {
+    margin-bottom: 15px;
+}
